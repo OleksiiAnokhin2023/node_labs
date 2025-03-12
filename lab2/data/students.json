@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Анохін Олексій",
+    "image":"/images/oleksii.jpg",
+    "information": "Навчаюсь в КПІ на факультеті ФІОТ. Живу в Києві. Займась програмуванням, аналітекою, зокрема економічною.",
+    "source":"https://github.com/OleksiiAnokhin2023"
+  },
+  {
+    "id": 2,
+    "name": "Хтось Інший",
+    "image": "/images/other.png",
+    "information": "Lorem ipsum",
+    "source": "https://example.com"
+  },
+  {
+    "id": 3,
+    "name": "Хтось Інший",
+    "image": "/images/other.png",
+    "information": "Lorem ipsum",
+    "source": "https://example.com"
+  }
+
+
+
+
+
+]
